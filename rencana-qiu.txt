@@ -1,0 +1,2 @@
+RENCANA
+- Membuat Portfolio dgn HTML, CSS, JS
